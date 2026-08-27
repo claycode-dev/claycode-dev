@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 # 👋 Olá, eu sou Clayson Alves
@@ -257,4 +257,4 @@ Se você quiser conversar sobre **desenvolvimento, projetos ou oportunidades**, 
 ### 💻 Código é ferramenta. Resolver problemas é o objetivo.
 
 </div>
-```
+

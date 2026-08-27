@@ -11,9 +11,6 @@ Transformando necessidades de negócio em soluções através da tecnologia.
 </p>
 
 <p>
-  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Clayson_Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:claysonalvesdesousa321@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
